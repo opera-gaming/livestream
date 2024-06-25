@@ -29,5 +29,3 @@ yarn-error.log*
 .gitignore
 
 #src
-/src/fonts
-/src/assets
